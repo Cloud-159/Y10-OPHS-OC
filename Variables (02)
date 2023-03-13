@@ -1,0 +1,25 @@
+#Variables (2)
+
+name1="Cheese Toasty"
+name2="Chicken Wrap"
+name3="French Fries"
+name4="Ham Burger"
+name5="Cerial"
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+town1="Crystal Pallace"
+town2="Addiscomb"
+town3="Croydon"
+town4="Bromley"
+town5="Penge"
+
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
