@@ -1,0 +1,15 @@
+question1 = (input("Is it raining?:"))
+
+question2 = (input("Is it windy?::"))
+
+if question1 == "yes":
+  print(question2)
+  
+else:
+  print("take an umbrella.")
+  
+if question2 == "yes":
+  print("Enjoy your day.")
+
+else:
+  print("Its too windy for an umbrella.")
