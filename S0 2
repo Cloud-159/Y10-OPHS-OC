@@ -1,0 +1,7 @@
+n = int(input("Please pick a number under 20:"))
+
+if n < 20:
+  print("Thank you.")
+  
+else:
+  print("Too high.")
